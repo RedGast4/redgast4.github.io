@@ -1,7 +1,0 @@
-site_name: NetherCraft - Worlds Wiki
-site_url: https://redgast4.github.io/
-nav:
-    - Главное: index.md
-    - Обо мне: about.md
-theme: 
-    name: material
